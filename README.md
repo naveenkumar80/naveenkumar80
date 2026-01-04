@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Naveen Kumar!<br>🚀 Full-Stack Developer | Web Enthusiast | DevOps Learner<br><br>Welcome to my GitHub! I love building real-world projects, exploring new technologies, and constantly improving myself as a developer.<br><br><br>🔭 I’m currently working on a LinkedIn Clone<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with scaling applications & improving project architecture<br>🌱 I’m currently learning DevOps<br>💬 Ask me about my journey in web development and building real-world projects
+👋 Hi, I'm Naveen Kumar!<br>🚀 Full-Stack Developer | Web Enthusiast | DevOps Learner | LLM Trainer<br><br>Welcome to my GitHub! I love building real-world projects, exploring new technologies, and constantly improving myself as a developer.<br><br><br>🔭 I’m currently working on a LinkedIn Clone<br>👯 I’m looking to collaborate on Web Development Projects<br>🤝 I’m looking for help with scaling applications & improving project architecture<br>🌱 I’m currently learning DevOps<br>💬 Ask me about my journey in web development and building real-world projects
 
 
 ## 🌐 Socials:
