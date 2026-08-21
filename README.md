@@ -1,54 +1,49 @@
 # 👋 Hi, I'm Naveen Kumar
 
-### 🚀 Full-Stack Developer | GenAI Enthusiast | System Design Learner | DevOps Explorer
+### 🚀 Full-Stack Developer | GenAI Enthusiast | System Design Learner
 
-I’m a **Full-Stack Developer** passionate about building scalable web applications and AI-powered products.
+I build **scalable web applications and AI-powered products** using modern full-stack technologies.
 
-I enjoy working across the stack — from designing responsive React interfaces and REST APIs to building **RAG applications, real-time systems, authentication, databases, and containerized deployments**.
-
-Currently focused on improving my skills in **System Design, Generative AI, Cloud & DevOps**, while continuously building and experimenting with real-world projects.
+My interests include **Full-Stack Development, Generative AI, System Design, Distributed Systems, and DevOps**. I enjoy turning ideas into real-world applications while continuously improving my understanding of software architecture and scalable systems.
 
 ---
 
 ## 💫 About Me
 
-* 🔭 Currently building **full-stack & AI-powered applications**
-* 🧠 Learning **System Design, Distributed Systems & Scalable Architecture**
-* 🤖 Exploring **Generative AI, LLMs, RAG & AI Agents**
-* ⚙️ Working with **React, Node.js, Python, MongoDB & SQL**
-* 🐳 Learning and experimenting with **Docker, Kubernetes & CI/CD**
-* 🔌 Building applications with **REST APIs, WebSockets & real-time synchronization**
-* 🤝 Open to collaborating on **Full-Stack, AI & Open-Source projects**
-* 💬 Ask me about **JavaScript, React, Node.js, MERN, GenAI & Web Development**
-* 📚 Currently improving my **DSA, System Design & Software Architecture** skills
+* 💻 Full-Stack Developer focused on **React, Node.js, Python & TypeScript**
+* 🤖 Building applications with **LLMs, RAG, embeddings & AI APIs**
+* 🧠 Currently learning **System Design & Distributed Systems**
+* 🐳 Exploring **Docker, Kubernetes, CI/CD & Cloud**
+* ⚡ Interested in **real-time applications and scalable backend systems**
+* 🔨 Building and improving **production-style projects**
+* 🤝 Open to collaborating on **Full-Stack, GenAI & Open-Source projects**
+* 📚 Improving my **DSA, System Design & Software Architecture** skills
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Monaco Editor](https://img.shields.io/badge/Monaco%20Editor-1E1E1E?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ### ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socket.io\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-4353FF?style=for-the-badge)
 
 ### 🗄️ Databases
@@ -60,99 +55,117 @@ Currently focused on improving my skills in **System Design, Generative AI, Clou
 
 ### 🤖 AI / GenAI
 
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=googlegemini\&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
 ### ☁️ Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ### 🔧 Tools & Automation
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🤖 InterviewAI
+## 🤖 InterviewAI
 
-AI-powered interview platform combining **Full-Stack Development + Generative AI**.
+An AI-powered interview platform designed to simulate technical interviews and provide intelligent feedback.
 
-**Tech:** React • Node.js • MongoDB • WebSockets • LLMs • RAG • AI APIs
+**Tech:** React • Node.js • Express • MongoDB • Gemini API • JWT • WebSockets • Puppeteer
 
-🔗 [View Repository](https://github.com/naveenkumar80/InterviewAI)
+🔗 **Repository:** https://github.com/naveenkumar80/InterviewAI
 
 ---
 
-### 📈 Trader Risk Dashboard
+## 🤝 ConsultBae AI Automation
 
-Interactive trading dashboard built with **React + TypeScript**, featuring trade management, portfolio metrics and risk visualization.
+AI-powered automation project combining **LLMs, workflows and automation** to streamline business processes.
+
+**Tech:** AI • Automation • n8n • APIs • Web Technologies
+
+🔗 **GitHub:** https://github.com/naveenkumar80
+
+---
+
+## 📈 Trader Risk Dashboard
+
+A real-time-style trading dashboard built with **React + TypeScript**, featuring trade management, portfolio metrics and risk visualization.
 
 **Tech:** React • TypeScript • Vite • Tailwind CSS
 
-🔗 [Live Demo](https://trading-dashboard-sand.vercel.app/)
-🔗 [GitHub Repository](https://github.com/naveenkumar80/trading-dashbaord)
+🔗 **Live Demo:** https://trading-dashboard-sand.vercel.app/
+
+🔗 **Repository:** https://github.com/naveenkumar80/trading-dashbaord
 
 ---
 
-### 🧠 AI Company Chatbot
+## 🧠 AI Company Chatbot
 
-A **RAG-based document chatbot** that allows users to interact with company documents using semantic search and LLMs.
+A **Retrieval-Augmented Generation (RAG)** chatbot that allows users to interact with company documents using semantic search and LLMs.
 
 **Tech:** RAG • Pinecone • Gemini Embeddings • Groq • Node.js
 
 ---
 
-## 📚 Currently Learning
+# 🧠 Currently Learning
 
 ```text
 System Design
-    ├── Scalability & Reliability
-    ├── Load Balancing
-    ├── Caching
-    ├── Database Design
-    ├── Message Queues
-    ├── Distributed Systems
-    └── Microservices
+├── Scalability & Reliability
+├── Load Balancing
+├── Caching
+├── Database Design
+├── Message Queues
+├── Distributed Systems
+└── Microservices
 
 Generative AI
-    ├── RAG
-    ├── Vector Databases
-    ├── Embeddings
-    ├── LLM Applications
-    ├── AI Agents
-    └── AI Workflow Automation
+├── RAG
+├── Vector Databases
+├── Embeddings
+├── LLM Applications
+├── AI Agents
+└── AI Automation
 
 DevOps
-    ├── Docker
-    ├── Kubernetes
-    ├── CI/CD
-    ├── AWS
-    └── Cloud Deployment
+├── Docker
+├── Kubernetes
+├── CI/CD
+├── AWS
+└── Cloud Deployment
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/naveenk80-developer/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/naveen__kumar__57)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:naveenkumar80032@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveenk80-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/naveen__kumar__57">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:naveenkumar80032@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -169,7 +182,7 @@ DevOps
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=naveenkumar80&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
@@ -177,7 +190,7 @@ DevOps
 
 ---
 
-## 💡 Random Dev Quote
+# 💡 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -185,28 +198,12 @@ DevOps
 
 ---
 
-### 👀 Profile Visitors
-
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=naveenkumar80&icon=0&color=0" />
+  <b>⭐ If you find my projects interesting, consider giving them a star!</b>
 </p>
 
----
-
-⭐ **If you find my projects interesting, consider giving them a star!**
-
-## 💡 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=radical)
-
----
-
-### 👀 Profile Visitors
-
-![](https://visitcount.itsvg.in/api?id=naveenkumar80\&icon=0\&color=0)
-
----
-
-⭐ **If you find my projects interesting, consider giving them a star!**
+<p align="center">
+  <i>Building. Learning. Scaling. 🚀</i>
+</p>
 
 <!-- Proudly created and maintained by Naveen Kumar -->
