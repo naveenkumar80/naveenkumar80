@@ -159,24 +159,41 @@ DevOps
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveenkumar80&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=naveenkumar80&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar80&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenkumar80&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar80&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://streak-stats.demolab.com/?user=naveenkumar80&theme=dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=naveenkumar80\&theme=radical\&no-frame=true\&no-bg=true\&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naveenkumar80&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
 
 ---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+### 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=naveenkumar80&icon=0&color=0" />
+</p>
+
+---
+
+⭐ **If you find my projects interesting, consider giving them a star!**
 
 ## 💡 Random Dev Quote
 
